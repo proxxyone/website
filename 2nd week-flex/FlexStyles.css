@@ -1,0 +1,33 @@
+.flexbox-container{
+    display: ;
+    background-color: rgb(43, 226, 147);
+    padding: 50px;
+
+}
+
+.flexbox-item1{
+    min-height: 200px;
+    width: 100px;
+    background-color: rgb(43, 119, 226);
+
+}
+
+.flexbox-item2{
+    min-height: 500px;
+    width: 100px;
+    background-color: rgb(152, 18, 18);
+
+}
+
+.flexbox-item3{
+    min-height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+
+}
+
+.flexbox-item4{
+    min-height: 50px;
+    width: 100px;
+    background-color: blueviolet;
+}
